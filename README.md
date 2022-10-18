@@ -1,2 +1,2 @@
-# nestjs-mysql
+# nestjs-crud-api
 nest js app with mysql
